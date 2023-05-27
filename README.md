@@ -34,7 +34,7 @@ To install these libraries, you can use the command: `pip install -r requirement
 
 3. `layoffs.csv`: This is the dataset used for this analysis. The dataset, which includes daily layoffs from different tech companies, can be downloaded from [here](https://www.kaggle.com/datasets/swaptr/layoffs-2022).
 
-## Results Summary:
+## Results Summary
 
 Our analysis revealed several crucial findings in response to our initial questions:
 
@@ -47,6 +47,8 @@ Our analysis revealed several crucial findings in response to our initial questi
 4. **Financing Status vs. Layoffs:** a significant negative relationship between the percentage laid off and funds raised.
 
 5. **Layoff Trends:** predictions suggest that layoffs will continue but with less volatility. 
+
+For a more detailed discussion of these findings, please visit our [blog post](https://medium.com/@yg2483/navigating-the-wave-understanding-the-trends-and-impacts-of-layoffs-in-the-tech-industry-38916908041e).
 
 
 ## License and Acknowledgments
